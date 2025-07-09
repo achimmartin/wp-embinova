@@ -1,0 +1,12 @@
+{
+  "id": "com.achim.sankeychart",
+  "name": "Sankey Chart Widget",
+  "description": "Google Sankey Chart als Custom Widget",
+  "vendor": "Achim",
+  "version": "1.0.0",
+  "webcomponents": [
+    {
+      "url": "https://achimmartin.github.io/sac-sankey-test/sankey-widget.js"
+    }
+  ]
+}
